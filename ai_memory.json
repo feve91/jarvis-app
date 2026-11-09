@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "intenta de uevo"
+  },
+  {
+    "role": "assistant",
+    "content": "Señor, he intentado de nuevo, pero sin información específica no puedo ejecutar la acción solicitada. Por favor indique qué operación desea repetir (por ejemplo, abrir una aplicación, crear una alarma, etc.). Con esos datos podré proceder de inmediato. Quedo a la espera."
+  },
+  {
+    "role": "user",
+    "content": "Jarvis"
+  },
+  {
+    "role": "assistant",
+    "content": "Señor, su pregunta inicial fue simplemente “Jarvis”, lo cual no indica una acción concreta. En los intercambios anteriores le solicité más detalles para poder ejecutar la tarea que desea (por ejemplo, abrir una aplicación, crear una alarma, consultar la agenda, etc.). Sin esa información no puedo proceder. Por favor indique la operación específica que necesita y actuaré de inmediato."
+  }
+]

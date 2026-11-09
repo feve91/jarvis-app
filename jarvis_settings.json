@@ -1,0 +1,76 @@
+{
+    "telegram_token": "8553338760:AAH5U9UnwIUBo60bfx0GvZmuRlGiGKSYpgo",
+    "telegram_chat_ids": "368324294",
+    "wa_mi_numero": "",
+    "wa_mi_apikey": "",
+    "voz_activa": "es-AR-TomasNeural",
+    "telegram_habla_local": true,
+    "opacidad_fondo": 0.5,
+    "splash_text": "N<O<V<A",
+    "splash_duration": 3.9081632653061225,
+    "colores_manuales": {
+        "Fondo": [
+            0.04,
+            0.02,
+            0.02,
+            1.0
+        ],
+        "Rojo/Acento": [
+            0.794520547945205,
+            0.08,
+            0.08,
+            1.0
+        ],
+        "Dorado": [
+            1.0,
+            0.8,
+            0.2,
+            1.0
+        ],
+        "Texto": [
+            1.0,
+            0.92,
+            0.85,
+            1.0
+        ]
+    },
+    "botones_texto": {
+        "btn_menu": "MENU",
+        "btn_enviar": ">>",
+        "btn_mic": "( MIC )",
+        "btn_volver": "MENU",
+        "btn_nuevo": "+ NUEVO",
+        "btn_agenda": "AGENDA",
+        "btn_config": "CONFIG"
+    },
+    "botones_color": {
+        "principal": [
+            0.75,
+            0.08,
+            0.08
+        ],
+        "secundario": [
+            0.35,
+            0.04,
+            0.04
+        ],
+        "peligro": [
+            1.0,
+            0.15,
+            0.15
+        ]
+    },
+    "user_name": "pipe",
+    "bot_name": "NOVA",
+    "greet_m": "Buenos dias",
+    "greet_t": "Buenas tardes",
+    "greet_n": "Buenas noches",
+    "vol_ducking": 20,
+    "voz": "es-MX-JorgeNeural",
+    "ai_enabled": true,
+    "ai_provider": "groq",
+    "groq_api_key": "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",
+    "ai_model": "groq/compound",
+    "ai_system_prompt": "",
+    "volumen_musica": 21.23076923076923
+}

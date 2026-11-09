@@ -1,0 +1,120 @@
+{
+    "pendientes": [],
+    "alarmas": [],
+    "agenda": [
+        {
+            "id": "8a1f31af",
+            "titulo": "comprar etherium",
+            "fecha": "26/07/2027",
+            "hora": "17:16",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "2b3c8add",
+            "titulo": "comprar bitcoin con alarma incluida",
+            "fecha": "26/07/2027",
+            "hora": "17:21",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "91b005f2",
+            "titulo": "comprar bitcoin",
+            "fecha": "26/07/2027",
+            "hora": "17:22",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "1642bbb6",
+            "titulo": "junta",
+            "fecha": "28/09/2026",
+            "hora": "00:00",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "6ab26c5e",
+            "titulo": "junta con el equipo el lunes",
+            "fecha": "28/09/2026",
+            "hora": "09:00",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "1fae0028",
+            "titulo": "pago de renta",
+            "fecha": "05/08/2112",
+            "hora": "00:00",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "2b4b1319",
+            "titulo": "cita odontológica del 27 de julio",
+            "fecha": "27/07/2027",
+            "hora": "19:34",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "137cac99",
+            "titulo": "histórico en la república agendar reunión a las tarde",
+            "fecha": "28/03/2027",
+            "hora": "15:00",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "283df842",
+            "titulo": "comprar bitcoin",
+            "fecha": "27/07/2026",
+            "hora": "19:46",
+            "descripcion": "",
+            "completado": false,
+            "notificado": true
+        },
+        {
+            "id": "3ea501c4",
+            "titulo": "ejemplo agendar reunión a las tarde",
+            "fecha": "30/03/2027",
+            "hora": "15:00",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "de744057",
+            "titulo": "comprar bitcoin del",
+            "fecha": "29/08/2026",
+            "hora": "00:00",
+            "descripcion": "",
+            "completado": false
+        },
+        {
+            "id": "1dc9b230",
+            "titulo": "cumpleanos de allison",
+            "fecha": "13/09/2026",
+            "hora": "7:00",
+            "descripcion": "llamar a saludar",
+            "completado": false
+        },
+        {
+            "id": "10859bfd",
+            "titulo": "cumpleanos de allison",
+            "fecha": "12/09/2026",
+            "hora": "20:00",
+            "descripcion": "cumpleanos de allison manana",
+            "completado": false
+        },
+        {
+            "id": "db3db7d7",
+            "titulo": "prueba alarma",
+            "fecha": "02/09/2026",
+            "hora": "8:38",
+            "descripcion": "prueba alarma",
+            "completado": false,
+            "notificado": true
+        }
+    ]
+}
