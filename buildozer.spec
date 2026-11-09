@@ -14,7 +14,7 @@ source.exclude_dirs = tests,bin,.git,.venv,__pycache__,.buildozer
 version = 2.5.0
 
 # ----- Dependencias para Android -----
-requirements = python3,kivy,requests,python-dateutil,certifi,urllib3,idna,charset-normalizer,plyer,pyjnius
+requirements = python3==3.11.5,hostpython3==3.11.5,kivy,requests,python-dateutil,certifi,urllib3,idna,charset-normalizer,plyer,pyjnius
 # ----- Orientacion -----
 orientation = portrait
 fullscreen = 0
@@ -42,3 +42,8 @@ android.copy_libs = 1
 [buildozer]
 log_level = 2
 warn_on_root = 1
+
+[buildozer]
+log_level = 2
+warn_on_root = 1
+p4a.branch = master
