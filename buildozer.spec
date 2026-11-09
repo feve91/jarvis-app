@@ -14,8 +14,7 @@ source.exclude_dirs = tests,bin,.git,.venv,__pycache__,.buildozer
 version = 2.5.0
 
 # ----- Dependencias para Android -----
-requirements = python3,kivy==2.3.0,requests,python-dateutil,certifi,urllib3,idna,charset-normalizer,plyer,pyjnius
-
+requirements = python3,kivy,requests,python-dateutil,certifi,urllib3,idna,charset-normalizer,plyer,pyjnius
 # ----- Orientacion -----
 orientation = portrait
 fullscreen = 0
